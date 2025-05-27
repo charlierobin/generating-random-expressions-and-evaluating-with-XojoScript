@@ -49,3 +49,9 @@ There is no effort to catch division by zero or anything else that might generat
 That aside, it does generate “correct” expressions, ie: balanced brackets and so forth.
 
 But I’m now thinking that it should perhaps also generate some deliberately wrong expressions, perhaps ones which have had some characters randomly deleted from them, just so that the error handling of those can also be fully tested.
+
+A blog article about using XojoScript to evaluate expressions:
+
+https://blog.xojo.com/2016/08/04/execute-a-formula-using-xojoscript/
+
+(For the actual demo project itself, look under the “Examples” section of the Xojo Project Chooser window.)
